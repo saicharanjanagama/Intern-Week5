@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **View Project:** [🎨 Advanced Portfolio Website (Week 5 Project)](https://saicharanjanagama.github.io/Intern-Week2/)
+🔗 **View Project:** [🎨 Advanced Portfolio Website (Week 5 Project)](https://saicharanjanagama.github.io/Intern-Week5/)
 
 📸 **Preview:**
 
